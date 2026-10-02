@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+asyncpg
+pyjwt
+argon2-cffi
+python-dotenv
+cloudinary
+google-auth
+requests
+email-validator
+orjson
